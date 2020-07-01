@@ -1,6 +1,8 @@
 '''
   what are Armstrong Numbers?
-  when sum of all digits of an number which are powered or exponentialised with the highest place order of the number, is equal to the actual number are said to be an armstrong number.
+  when sum of all digits of an number which are powered or
+  exponentialised with the highest place order of the number,
+  is equal to the actual number are said to be an armstrong number.
 '''
 
 
